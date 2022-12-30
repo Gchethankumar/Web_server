@@ -43,6 +43,8 @@ content = """
 <h4>-Django</h4>
 <h4>-Ruby on Rails</h4>
 <h4>-Angular</h4>
+<h4>-Meteor</h4>
+<h4>-jQuery</h4>
 </body>
 </html>
 """
@@ -58,7 +60,8 @@ httpd = HTTPServer(server_address, Hellohandler)
 httpd.serve_forever()
 ```
 # OUTPUT:
-![model](/Web_server/mywebpage.png)
+![mywebserver1](https://user-images.githubusercontent.com/118348224/210048524-79df41d9-9277-4ebd-a044-664d4a9ff712.png)
+
 
 # RESULT:
 
